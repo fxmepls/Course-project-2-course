@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ParserVyatsu.Program">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.SelectForm" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIBAACAAAIAAAATAQIAiCAAAACAAAAAEAYAAAAA=</HashCode>
+      <FileName>SelectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.ParserForm" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JUGAAAAADWAAARBigBCAQBEGBAkAACZAAAAACJQAIEA=</HashCode>
+      <FileName>ParserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.PdfFiles.PdfCreate">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>PdfFiles\PdfCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.ExelFiles.ExcelCreate">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExelFiles\ExcelCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.Parsers.ParserStartList">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAQAAAAAAABCAAAAAAAAAA=</HashCode>
+      <FileName>Parsers\ParserStartList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.Parsers.ParserTeacher">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAgAAAAA=</HashCode>
+      <FileName>Parsers\ParserTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParserVyatsu.Parsers.PeriodParser">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEA=</HashCode>
+      <FileName>Parsers\PeriodParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
